@@ -18,6 +18,7 @@ class Admin extends CI_Controller
 	}
 
 //category start
+        
 	public function category_add()
 	{
 		
